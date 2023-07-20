@@ -7,7 +7,7 @@ The main code files for the Lucky Number App can be found in the following direc
 
 Source Code: app/src/main/java/com/example/luckynumber
 
-XML Layouts: app/src/main/res/xml
+XML Layouts: app/src/main/res/layout
 
 # Features
 
